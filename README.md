@@ -36,7 +36,7 @@ This Unity project is a racing game prototype featuring track selection, car cus
 ## How to Play
 - Clone or download the repository.
 - Open the project in Unity.
-- Navigate to the scene containing the racing game.
+- Navigate to the scene containing the racing game (Assets>Scenes>TerrainExample).
 - Press play to start the game.
 - Use the arrow keys to control the car.
 - Enjoy the race!
