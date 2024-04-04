@@ -43,5 +43,7 @@ This Unity project is a racing game prototype featuring track selection, car cus
 
 ## Notes
 - This project is still under development, and additional features and improvements are planned for future updates.
+- Video Test can be found in the Video Folder or https://drive.google.com/drive/folders/1YpxMBx9vCgeGfVJMTLvpaEt3fREx_Ls6?usp=sharing
+- There is a problem with screen recording where the game comes off as laggy and does not record the audio. While playing, the game is not laggy and has audio for acceleration etc.
 
 Feel free to reach out for any questions, feedback, or suggestions!
